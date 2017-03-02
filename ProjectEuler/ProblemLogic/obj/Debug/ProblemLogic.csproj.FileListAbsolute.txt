@@ -1,0 +1,5 @@
+F:\MyPrograms\dotNet\ProjectEuler\ProblemLogic\bin\Debug\ProblemLogic.dll
+F:\MyPrograms\dotNet\ProjectEuler\ProblemLogic\bin\Debug\ProblemLogic.pdb
+F:\MyPrograms\dotNet\ProjectEuler\ProblemLogic\obj\Debug\ProblemLogic.csprojResolveAssemblyReference.cache
+F:\MyPrograms\dotNet\ProjectEuler\ProblemLogic\obj\Debug\ProblemLogic.dll
+F:\MyPrograms\dotNet\ProjectEuler\ProblemLogic\obj\Debug\ProblemLogic.pdb

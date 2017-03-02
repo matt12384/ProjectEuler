@@ -1,0 +1,11 @@
+F:\MyPrograms\dotNet\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+F:\MyPrograms\dotNet\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+F:\MyPrograms\dotNet\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+F:\MyPrograms\dotNet\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojResolveAssemblyReference.cache
+F:\MyPrograms\dotNet\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
+F:\MyPrograms\dotNet\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
+F:\MyPrograms\dotNet\ProjectEuler\ProjectEuler\bin\Debug\ProblemLogic.dll
+F:\MyPrograms\dotNet\ProjectEuler\ProjectEuler\bin\Debug\ProblemLogic.pdb
+D:\CSharpWorkSpace\Personal\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+D:\CSharpWorkSpace\Personal\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
+D:\CSharpWorkSpace\Personal\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
