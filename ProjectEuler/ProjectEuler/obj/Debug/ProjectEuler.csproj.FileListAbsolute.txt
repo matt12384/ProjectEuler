@@ -9,3 +9,11 @@ F:\MyPrograms\dotNet\ProjectEuler\ProjectEuler\bin\Debug\ProblemLogic.pdb
 D:\CSharpWorkSpace\Personal\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
 D:\CSharpWorkSpace\Personal\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
 D:\CSharpWorkSpace\Personal\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
+C:\Users\matthew.flynn\Documents\CSharpWorkspace\ProjectEuler\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+C:\Users\matthew.flynn\Documents\CSharpWorkspace\ProjectEuler\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
+C:\Users\matthew.flynn\Documents\CSharpWorkspace\ProjectEuler\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
+C:\Users\matthew.flynn\Documents\CSharpWorkspace\ProjectEuler\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+C:\Users\matthew.flynn\Documents\CSharpWorkspace\ProjectEuler\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+C:\Users\matthew.flynn\Documents\CSharpWorkspace\ProjectEuler\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\ProblemLogic.dll
+C:\Users\matthew.flynn\Documents\CSharpWorkspace\ProjectEuler\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\ProblemLogic.pdb
+C:\Users\matthew.flynn\Documents\CSharpWorkspace\ProjectEuler\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojResolveAssemblyReference.cache

@@ -3,3 +3,8 @@ F:\MyPrograms\dotNet\ProjectEuler\ProblemLogic\bin\Debug\ProblemLogic.pdb
 F:\MyPrograms\dotNet\ProjectEuler\ProblemLogic\obj\Debug\ProblemLogic.csprojResolveAssemblyReference.cache
 F:\MyPrograms\dotNet\ProjectEuler\ProblemLogic\obj\Debug\ProblemLogic.dll
 F:\MyPrograms\dotNet\ProjectEuler\ProblemLogic\obj\Debug\ProblemLogic.pdb
+C:\Users\matthew.flynn\Documents\CSharpWorkspace\ProjectEuler\ProjectEuler\ProjectEuler\ProblemLogic\bin\Debug\ProblemLogic.dll
+C:\Users\matthew.flynn\Documents\CSharpWorkspace\ProjectEuler\ProjectEuler\ProjectEuler\ProblemLogic\bin\Debug\ProblemLogic.pdb
+C:\Users\matthew.flynn\Documents\CSharpWorkspace\ProjectEuler\ProjectEuler\ProjectEuler\ProblemLogic\obj\Debug\ProblemLogic.csprojResolveAssemblyReference.cache
+C:\Users\matthew.flynn\Documents\CSharpWorkspace\ProjectEuler\ProjectEuler\ProjectEuler\ProblemLogic\obj\Debug\ProblemLogic.dll
+C:\Users\matthew.flynn\Documents\CSharpWorkspace\ProjectEuler\ProjectEuler\ProjectEuler\ProblemLogic\obj\Debug\ProblemLogic.pdb
